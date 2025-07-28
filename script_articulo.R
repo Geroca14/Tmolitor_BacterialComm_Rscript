@@ -1,4 +1,4 @@
-# Title: R script for the publication (DOI:)
+# Title: R Script for the Analysis of Bacterial Communities in the Gut of Tenebrio molitor Larvae Fed with Plastics
 # Author: Gema Rodríguez-Caballero
 # Email: a62rocag@uco.es
 # License: MIT
